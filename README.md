@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arpan Pokhrel</h1>
-<h3 align="center">A passionate backend developer from Nepal!</h3>
+<h3 align="center">A passionate cybersecurity student from Nepal!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-asus&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-asus" /> </p>
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👯 I’m looking to collaborate on **Laravel Projects**
+- 👯 I’m looking to collaborate on **CyberSecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpan-asus/](https://github.com/arpan-asus/)
 
-- 💬 Ask me about **Laravel, Php,**
+- 💬 Ask me about **Linux, Tools for vulnerabilities,**
 
 - 📫 How to reach me **iamarpan15@gmail.com**
 
