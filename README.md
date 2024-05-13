@@ -17,6 +17,7 @@
 - 📫 How to reach me **iamarpan15@gmail.com**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
+- <br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
