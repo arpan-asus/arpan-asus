@@ -1,5 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Arpan Pokhrel</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpan+Pokhrel!;" />
+</h1>
 <h3 align="center">A passionate cybersecurity student from Nepal!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -20,9 +21,7 @@
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 - <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
+
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
